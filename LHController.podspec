@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source_files = 'LHController/*'  
   
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'  
-  
+  #ZZs.dependency 'Masonry', '~> 0.6.3'  
 end  
